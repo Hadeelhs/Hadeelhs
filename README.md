@@ -1,11 +1,10 @@
-### 💫 About Me:
+### About Me:
 Hey there! I'm **Hadeel** 👋<br>
-I'm a second-year **Computer Science Engineering** student at **ENIS** and a proud **Microsoft Learn Student Ambassador** 🚀.<br>
-Passionate about technology and building innovative solutions that make an impact! 🌟
+I'm a second-year **Computer Science Engineering** student at **ENIS** and a **Microsoft Learn Student Ambassador** .<br>
 
 ---
 
-### 💻 Tech Stack:
+### Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%23A8DADC.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%23A8DADC.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23A8DADC.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -27,7 +26,7 @@ Passionate about technology and building innovative solutions that make an impac
 
 ---
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hadeelhs&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Hadeelhs&theme=rose_pine&hide_border=false)<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadeelhs&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
